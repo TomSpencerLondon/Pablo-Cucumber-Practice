@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry output="bin/test" kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/test" kind="src" path="src/test/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-junit-platform-engine/6.10.3/e61c652d350c75d87f7fcdcaf2bede80b7d27886/cucumber-junit-platform-engine-6.10.3-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-junit-platform-engine/6.10.3/1080fa7a445c38633911a3acdc8b8fe3c9ad0934/cucumber-junit-platform-engine-6.10.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.7.1/987bee3f7c9ae0c219bae82e3cfe073708cbadad/junit-platform-engine-1.7.1-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.7.1/d276a968c57f5d60a421dedd1f8b6ca2fae09e86/junit-platform-engine-1.7.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.7.1/4f2ca409307a4791a2d855b99ddbbf2c904b5fd5/junit-platform-commons-1.7.1-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.7.1/7c49f0074842d07f4335de2389d624a7437d1407/junit-platform-commons-1.7.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.7.1/ebca04edd1975a8fd42846c4f6d0b8fec3d6efc1/junit-jupiter-api-5.7.1-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.7.1/a7261dff44e64aea7f621842eac5977fd6d2412d/junit-jupiter-api-5.7.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-java8/6.10.4/ff24b95f4b65818b12df9d5ed50193b43ccdc82e/cucumber-java8-6.10.4-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-java8/6.10.4/1e9f8015d4230344efddaaf0c041fdf851650326/cucumber-java8-6.10.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.19.0/9880348818f6890a6cfb6e54815fedb00de58c1a/assertj-core-3.19.0-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.19.0/f64cb5690b85e68d5e1e6c6152bfb6e3840a452d/assertj-core-3.19.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-core/6.10.4/1723f770e5dfaae460cb19d8e1a717a73b2a6c1b/cucumber-core-6.10.4-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-core/6.10.4/9f0eebb43905871c460b632ce9e58cc4c789a0aa/cucumber-core-6.10.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-expressions/10.3.0/5db83a0f811c3b078124806a27873f1bc8d4b974/cucumber-expressions-10.3.0-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-expressions/10.3.0/6387211ec92bc0abadf7cd88de77b2994257e60f/cucumber-expressions-10.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/datatable/3.5.0/97d1b02b029c571f13668aacc9540a4dacdaed83/datatable-3.5.0-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/datatable/3.5.0/54f1f18ceadb56cd78faa22438b8cd0450a0ce00/datatable-3.5.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-gherkin-messages/6.10.4/8c210827508fc67b3c98fc637c4f2d1e5db8225/cucumber-gherkin-messages-6.10.4-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-gherkin-messages/6.10.4/fed3ff10014bb447d37eb6ac381646760f5e37fd/cucumber-gherkin-messages-6.10.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-gherkin/6.10.4/4b57e2c5bc2e675d6c670503a18d4a62e71f6f1/cucumber-gherkin-6.10.4-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-gherkin/6.10.4/35c5836aa90b673806d4743c50f6e8e17289c172/cucumber-gherkin-6.10.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-plugin/6.10.4/ded4a9d82b184962fbce9e06d6aa81fc08d723ac/cucumber-plugin-6.10.4-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-plugin/6.10.4/5a81ab249026eeeafbf0b260dd97d731cd15c323/cucumber-plugin-6.10.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/docstring/6.10.4/6f14f43d3c2cb9636e7f7d3d04217ca22a2ced4b/docstring-6.10.4-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/docstring/6.10.4/bcf68b2d6a30d06a0d57eb478215abfffab63331/docstring-6.10.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.1/f69264a564e8bf11729b029906d24592be3a3432/apiguardian-api-1.1.1-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.1/7ea550039f115fcc40990925490b8ebd4b93024a/apiguardian-api-1.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/41d55b3c2254de9837b4ec8923cbd371b8a7eab5/opentest4j-1.2.0-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.6.3/de30205cf0153746a489a53203c41fa3766d7d24/typetools-0.6.3-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.6.3/a01aaa6ddaea9ec07ec4f209487b7a46a526283a/typetools-0.6.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/html-formatter/13.0.0/c77a6f1ace3bae7102a54a5d5c0f4313c36963b0/html-formatter-13.0.0-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/html-formatter/13.0.0/61398249ca20eb6496b67d4cec6e9c48cac86524/html-formatter-13.0.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/create-meta/4.0.0/c054f2f966a652913a52e778126b3b2b1045b5/create-meta-4.0.0-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/create-meta/4.0.0/f3e10813bdfe6108aedfcc3a08f94c279dca8ad0/create-meta-4.0.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/messages/15.0.0/720bb3a5e6cc46b966636b6a0182749496aba3fb/messages-15.0.0-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/messages/15.0.0/adecdd395ef22d28ab03907ed42cbac5579ddc06/messages-15.0.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/tag-expressions/3.0.1/889a38dc8fad77809fb0644b6a181789e27c5f/tag-expressions-3.0.1-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/io.cucumber/tag-expressions/3.0.1/c7e8b348cb2c6d61ae72165a7966542a0dcc5702/tag-expressions-3.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/pablo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.7.1/7c0d81d9af26a35e3f552eaaad2aa6867218d534/junit-jupiter-engine-5.7.1-sources.jar" kind="lib" path="/home/pablo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.7.1/7fcfa59c5533abb41f86b1408960737eeaf1f49f/junit-jupiter-engine-5.7.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+</classpath>
